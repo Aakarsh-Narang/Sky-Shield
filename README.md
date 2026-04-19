@@ -421,11 +421,11 @@ If you use this code in your research, please cite:
 
 ```
 @misc{uav_ids_2026,
-  author = {Your Name},
+  author = {Aakarsh Narang},
   title = {LSTM-based Intrusion Detection System for UAV-assisted IoV},
   year = {2026},
   publisher = {GitHub},
-  howpublished = {\url{https://github.com/yourusername/uav-ids}}
+  howpublished = {\url{https://github.com/Aakarsh-Narang/Sky-Shield}}
 }
 ```
 
@@ -448,8 +448,8 @@ This project is for academic and research purposes.
 ## 📧 Contact
 
 For questions or collaboration:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: aakarsh.narang2@gmail.com
+- GitHub: [Aakarsh-Narang](https://github.com/Aakarsh-Narang)
 
 ---
 
